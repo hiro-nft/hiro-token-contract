@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@ethersproject/hardware-wallets": "^5.7.0",
+    "@ledgerhq/hw-transport-node-hid": "^6.27.16",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.3",
+    "@openzeppelin/hardhat-upgrades": "^1.21.0",
+    "@types/lodash": "^4.14.187",
+    "hardhat": "^2.12.1",
+    "lodash": "^4.17.21"
+  },
+  "name": "hiro-token",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
