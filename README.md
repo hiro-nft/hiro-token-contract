@@ -1,6 +1,6 @@
 # hiro-token-contract
-이 프로젝트는 히로 토큰 배포 소스입니다.
-초기 배분과 타임 락이 포함되어 있습니다.
+This project is the source of Hiro token distribution. 
+Includes initial distribution and time lock.
 
 npx hardhat init
 npx hardhat node
